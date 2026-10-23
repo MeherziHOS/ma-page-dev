@@ -26,6 +26,7 @@ export default defineConfig({
         rolldownOptions: {
             input: {
                 accueil: resolve(racine, 'index.html'),
+                projets: resolve(racine, 'projets.html'),
             },
         },
     },

@@ -103,3 +103,19 @@ Il utilise .NET 10 et un fichier `global.json` pour sélectionner un SDK compati
 ## Évolution du projet
 
 Le portfolio sera enrichi progressivement pendant la formation CDA, notamment avec de nouveaux projets et des fonctionnalités supplémentaires.
+
+## Règles du dépôt
+
+Les modifications sont enregistrées avec Git et partagées sur GitHub.
+
+**Convention des commits :**
+
+- `feat:` nouvelle fonctionnalité.
+- `fix:` correction d'un bug.
+- `docs:` modification de la documentation.
+- `test:` ajout ou modification de tests.
+- `chore:` configuration ou maintenance.
+
+**Justification :** cette convention permet de comprendre rapidement les modifications, de faciliter le suivi du projet et la collaboration en équipe.
+
+**Sécurité :** les fichiers confidentiels (`.env`), les dépendances (`node_modules/`) et les fichiers générés (`dist/`) sont exclus du dépôt grâce à `.gitignore`.

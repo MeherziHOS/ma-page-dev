@@ -119,3 +119,14 @@ Les modifications sont enregistrées avec Git et partagées sur GitHub.
 **Justification :** cette convention permet de comprendre rapidement les modifications, de faciliter le suivi du projet et la collaboration en équipe.
 
 **Sécurité :** les fichiers confidentiels (`.env`), les dépendances (`node_modules/`) et les fichiers générés (`dist/`) sont exclus du dépôt grâce à `.gitignore`.
+
+### GitHub Flow
+
+- Partir de la branche `main` à jour.
+- Créer une branche pour chaque modification.
+- Enregistrer les modifications avec des commits explicites.
+- Envoyer la branche sur GitHub avec `git push`.
+- Ouvrir une Pull Request liée à une Issue.
+- Relire les modifications et vérifier les tests.
+- Fusionner dans `main` après validation.
+- Supprimer la branche temporaire après fusion.

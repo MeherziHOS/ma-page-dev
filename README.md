@@ -4,6 +4,7 @@ Portfolio de Khaoula Meherzi, réalisé dans le cadre de ma formation Conceptric
 
 ## Présentation
 
+Versionnée avec Git et publiée avec GitHub Pages.
 Ce projet est une page de présentation professionnelle comprenant :
 
 - Une présentation de mon parcours

@@ -131,3 +131,9 @@ Les modifications sont enregistrées avec Git et partagées sur GitHub.
 - Relire les modifications et vérifier les tests.
 - Fusionner dans `main` après validation.
 - Supprimer la branche temporaire après fusion.
+
+## En ligne
+
+Mon portfolio est accessible sur GitHub Pages :
+
+https://meherzihos.github.io/ma-page-dev/
